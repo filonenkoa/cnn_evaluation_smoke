@@ -11,6 +11,23 @@ Training parameters:
 - RMSProp optimizer (learning rate = 0.001)
 - Training and evaluation sets: http://staff.ustc.edu.cn/~yfn/vsd.html (Sets 1 to 4)
 
+Paper:
+```
+@INPROCEEDINGS{8004998, 
+author={A. Filonenko and L. Kurnianggoro and K. H. Jo}, 
+booktitle={2017 10th International Conference on Human System Interactions (HSI)}, 
+title={Comparative study of modern convolutional neural networks for smoke detection on image data}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={64-68}, 
+keywords={neural nets;object detection;AlexNet;CNN;ImageNet dataset;Inception-V3;Inception-V4;ResNet;VGG;Xception;image data;inception-based networks;modern convolutional neural networks;smoke detection task;Biological neural networks;Convolution;Graphics processing units;Hardware;Neurons;Training;Videos}, 
+doi={10.1109/HSI.2017.8004998}, 
+ISSN={}, 
+month={July},}
+```
+
+
 [Preprocessed Yuan's smoke dataset (5GB)](https://1drv.ms/u/s!AlNvDViF-5qmh_Q0jEUCcqG5zhM12A)
 
 
