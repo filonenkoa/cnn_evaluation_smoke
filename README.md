@@ -11,6 +11,8 @@ Training parameters:
 - RMSProp optimizer (learning rate = 0.001)
 - Training and evaluation sets: http://staff.ustc.edu.cn/~yfn/vsd.html (Sets 1 to 4)
 
+[Preprocessed Yuan's smoke dataset (5GB)](https://1drv.ms/u/s!AlNvDViF-5qmh_Q0jEUCcqG5zhM12A)
+
 
 AlexNet:
 - [Scenario 1](https://1drv.ms/u/s!AlNvDViF-5qmh_QYr3bgq9runmVbrQ)
